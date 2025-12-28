@@ -1,7 +1,7 @@
 # Hi, I'm Pawan Kumar 👋
 
 <p align="center">
-  <img src="![Uploading WhatsApp Image 2025-11-28 at 19.19.31_9a3529ad.jpg…]()
+  <img src="PXL_20250616_131104568_imgupscaler.ai_General_8K
 " width="200" style="border-radius: 50%;" alt="Pawan Kumar" />
 </p>
 
