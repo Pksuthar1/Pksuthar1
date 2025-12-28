@@ -34,7 +34,7 @@ A brief description of your latest web application.
 ![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pksuthar1&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-* 💼 *LinkedIn:* https://www.linkedin.com/public-profile/settings
+* 💼 *LinkedIn:* https://www.linkedin.com/in/pawan-kumar-8b5704397/
 * 📧 *Email:* pksuthar996@gmail.com
 
 <!--
