@@ -1,7 +1,8 @@
 # Hi, I'm Pawan Kumar 👋
 
 <p align="center">
-  <img src="https://github.com/Pksuthar1/Pksuthar1/raw/main/image_42d70b.png" width="200" style="border-radius: 50%;" alt="Pawan Kumar" />
+  <img src="![Uploading WhatsApp Image 2025-11-28 at 19.19.31_9a3529ad.jpg…]()
+" width="200" style="border-radius: 50%;" alt="Pawan Kumar" />
 </p>
 
 ### 👨‍💻 About Me
