@@ -34,8 +34,8 @@ A brief description of your latest web application.
 ![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pksuthar1&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-* 💼 *LinkedIn:* [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 📧 *Email:* pksuthar@email.com
+* 💼 *LinkedIn:* https://www.linkedin.com/public-profile/settings
+* 📧 *Email:* pksuthar996@gmail.com
 
 <!--
 **Pksuthar1/Pksuthar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
